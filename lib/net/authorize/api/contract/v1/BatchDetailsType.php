@@ -289,7 +289,7 @@ class BatchDetailsType implements \JsonSerializable
                 }
             }
         }
-                    return $values;
+        return $values;
     }
     
     // Json Set Code

@@ -210,7 +210,7 @@ class ProfileTransactionType implements \JsonSerializable
                 }
             }
         }
-                    return $values;
+        return $values;
     }
     
     // Json Set Code

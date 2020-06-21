@@ -63,7 +63,7 @@ class DeviceInfoAType implements \JsonSerializable
                 }
             }
         }
-                    return $values;
+        return $values;
     }
     
     // Json Set Code

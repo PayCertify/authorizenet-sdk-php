@@ -309,7 +309,7 @@ class PaymentDetailsType implements \JsonSerializable
                 }
             }
         }
-                    return $values;
+        return $values;
     }
     
     // Json Set Code

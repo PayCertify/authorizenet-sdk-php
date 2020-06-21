@@ -122,7 +122,7 @@ class ANetApiRequestType implements \JsonSerializable
                 }
             }
         }
-            return $values;
+        return $values;
     }
     
     // Json Set Code
